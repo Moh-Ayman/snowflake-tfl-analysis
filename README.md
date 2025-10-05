@@ -19,7 +19,7 @@ The primary goal was to answer three core business questions:
 
 ---
 ## Live Dashboard Preview
-![Dashboard Screenshot](dashboard/Executive_Overview.png)
+![Dashboard Screenshot](dashboard/executiveOverview.png)
 
 ---
 ## Data Pipeline Walkthrough
