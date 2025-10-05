@@ -1,6 +1,6 @@
 # London Transport Analysis: A Story of Resilience & Recovery
 
-### 📊 [View the Interactive Dashboard Live Here]([Link to Your Published Looker Studio Report])
+### 📊 [View the Interactive Dashboard Live Here](https://lookerstudio.google.com/s/hxPWljmELXY)
 
 ## Project Overview
 This project is an end-to-end analysis of the Transport for London (TfL) public transport network, focusing on its response to and recovery from the COVID-19 pandemic. The entire data pipeline was built from the ground up in Snowflake, moving from raw, unstructured data to a strategic, interactive dashboard in Looker Studio that tells a clear data story.
@@ -19,7 +19,7 @@ The primary goal was to answer three core business questions:
 
 ---
 ## Live Dashboard Preview
-![Dashboard Screenshot](dashboard/overview.png)
+![Dashboard Screenshot](dashboard/Executive_Overview.png)
 
 ---
 ## Data Pipeline Walkthrough
